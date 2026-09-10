@@ -62,7 +62,7 @@ Then open the local address shown in the terminal.
 
 ## Author
 
-**Isabel Pombal**, petroleum engineer with 13+ years of experience in the oil and gas industry, now working in data analytics.
+**Isabel Pombal**, petroleum engineer with 13+ years of experience in the oil and gas industry, transitioning into data analytics.
 
 [LinkedIn](https://www.linkedin.com/in/isabel-mazingo-de-pombal-43a98a48)
 
