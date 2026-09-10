@@ -4,7 +4,7 @@ An interactive web app for exploring more than 51,000 used car advertisements in
 
 **Live app:** https://vehicles-dashboard-b89w.onrender.com
 
-> The app runs on Render's free tier and sleeps after a period of inactivity, so the first visit may take about a minute to load. The app interface is in Portuguese.
+> The app runs on Render's free tier and sleeps after a period of inactivity, so the first visit may take about a minute to load.
 
 ## About the project
 
